@@ -18,3 +18,4 @@ for (let i = 0; i < accordian.length; i++) {
     }
   });
 }
+console.log("hello world");
